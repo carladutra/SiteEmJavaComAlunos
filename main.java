@@ -17,6 +17,10 @@ class HelloWorld {
         String sinopse;
         sinopse = ("Entre as décadas de 50 e 60 a corrida espacial já era uma realidade na NASA, uma vez que a União Soviética já começava a lançar seus primeiros satélites, enquanto os EUA tinham alguns problemas de lançamento.");
         System.out.println(sinopse);
+
+         //Atribuindo Estrelas 
+        int classificação = (int) media/2;
+        System.out.println("Estrelas: "+ classificação);
         
     }
 }
